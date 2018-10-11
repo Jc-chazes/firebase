@@ -1,0 +1,63 @@
+.add-serie{
+  width: 250px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:38px;
+}
+.add-serie__btn{
+  margin-left: 15px;
+  margin-bottom: 10px;
+  border-radius:6px;
+  font-family: "Comic Sans MS";
+}
+
+.add-serie__title{
+  font-size: 21px;
+  margin: 0 auto;
+  width: 208px;
+  height: 34px;
+  color: #3f51b5;
+  font-family: "Comic Sans MS";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper-series{
+  margin: 15px auto;
+  width: 227px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+  font-family: "Comic Sans MS";
+}
+.wrapper-series__item{
+     width: 227px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+.title_series{
+  font-size: 15px;
+  font-family: "Comic Sans MS";
+  margin: 10px auto;
+  width: 281px;
+  height: 20px;
+}
+.add-serie__btn-delete{
+  width: 50px;
+  height: 40px;
+  border:none;
+  outline:none;
+  cursor:pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius:6px;
+  font-family: "Comic Sans MS";
+  margin: 0 auto;
+}
